@@ -6,7 +6,7 @@
 
 Projeto feito utilizando os conceitos de HTML e CSS com responsividade de dispositivos diferentes.
 
-[🔗 Clique aqui para acessar o projeto](https://loren175.github.io/Portfolio-mafe)
+[🔗 Clique aqui para acessar o projeto](https://loren175.github.io/Portfolio-Mafe)
 
 ## 🚀 Tecnologias
 
