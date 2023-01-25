@@ -147,6 +147,28 @@ li {
   bottom: 1.25rem;
 }
 
+.credits {
+  width: 568px;
+  height: 0px;
+  margin: 157px auto 27px;
+  border: 1px solid var(--fc-primary);
+
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: var(--fc-secondary);
+  font-family: var(--ff-heading);
+
+  animation-name: topdown;
+  animation-duration: 800ms;
+}
+
+.credits a {
+  text-decoration: none;
+  color: black;
+  font-family: var(--ff-heading);
+}
+
 @media (min-width: 700px) {
   .page {
     max-width: 117rem;
