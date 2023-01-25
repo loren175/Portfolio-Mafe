@@ -1,4 +1,4 @@
-# Portfólio para cliente (Em andamento)
+# Portfólio para cliente
  
 ![preview](./github/preview.png)
 
