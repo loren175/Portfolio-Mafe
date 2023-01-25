@@ -20,7 +20,6 @@
   --fs-heading-sm: clamp(3rem, 0.5rem + 3vw, 4rem);
 }
 
-
 body {
   font-family: var(--ff-texting);
   background-color: var(--bg-primary);
@@ -82,24 +81,14 @@ button {
   margin-top: 2rem;
 
   background-color: transparent;
-}
-
-button a {
-  text-decoration: none;
   color: var(--fc-secondary);
   font-family: var(--ff-texting);
   letter-spacing: 3px;
   text-transform: uppercase;
-  
   animation-name: downtop;
   animation-duration: 800ms;
   animation-delay: 400ms;
   animation-fill-mode: backwards;
-}
-
-button:hover {
-  transform: scale(1.1);
-  transition: 0.2s;
 }
 
 .cards {
