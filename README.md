@@ -4,9 +4,10 @@
 
 > Feito para Maria Fernanada Malavazi
 
-Projeto feito utilizando os conceitos de HTML e CSS com responsividade de dispositivos diferentes.
+O projeto se trata de um Portfólio e foi feito utilizando os conceitos de HTML e CSS com responsividade de dispositivos diferentes.
 
-[🔗 Clique aqui para acessar o projeto](https://loren175.github.io/Portfolio-Mafe)
+## [🔗 Clique aqui para acessar o projeto](https://loren175.github.io/Portfolio-Mafe)
+#
 
 ## 🚀 Tecnologias
 
